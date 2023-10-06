@@ -1,5 +1,5 @@
 # Global-superstore-Capstone-Project
-![](supermarket_aisle.jpg)
+![](supermarket.jpg)
 ***
 ## Introduction
 Global Superstore is a global online retailer based in New York, boasting a broad product catalog and aiming to be a one-stop-shop for its customers. Global The superstore’s clientele, hailing from 147 different countries, can browse through an endless offering with more than 10,000 products. This large selection comprises three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).
@@ -47,7 +47,7 @@ The following POWERBI concepts were incorporated
 ## Data Modelling
  Auto Model                      | Adjusted Model           
 :-------------------------------:|:-------------------------------:
-![](Befor_modelling.png)         | ![](After_modelling.png)        
+![](Pre_modelling.png)         | ![](post_modelling.png)        
 
 A star Schema model was automatically created Power BI and is adjusted to include new relationships. The order table is the fact table of the model. Peoples and Returns table is the dimensional table of the model and are connected to the table by the columns “Region” and “Order_id” respectively.
 
@@ -77,16 +77,18 @@ Copiers, Machines and Tables are the subcategories with the highest average ship
 ###  Nigeria's Profitability in comparison to other African Countries in 2014
 ![](Nigeria_profitability.png)
 Nigeria had a total loss of about -$23,285 in comparison with other African countries, this loss was due to the High Shipping Cost and its elevated discount. I compared this value with Uganda which also had the same discount rate at an average of 0.7, and i noted that while it ran at loss this was cushioned by its reduced shipping cost.
+
 _**Recommendations:** A reduced discount rate will cushion the high cost of shipping and considerably reduces loss._
 ***
 ### Subcategories by profitability in South East Asia 
 ![](subcategories_in_SE_Asia.png)
-Tables generated the least Profit in South east Asia.Indonesia accumulated the greatest loss from the sales of Tables. 
--**Recommendations:** Tables should not be marketed in Indonesia because it recorded over 300% more loss than Thailand which closely follows it in the scale of loss.
+Tables generated the least Profit in South east Asia.Indonesia accumulated the greatest loss from the sales of Tables, it recorded over 300% more loss than Thailand which succeeds it in the scale of loss.
+
+-**Recommendations:** Tables should not be marketed in Indonesia until further analysis can be conducted to rectify the loss margin.
 ***
 ###  Cities by Profitability in US
 ![](subcategories_in_US.png)
-Lancaster is the least profitable city in the United states this is because while the Discount rate and cost of shipping increases as the Sales increases therefore reducing the profit margin.
+Lancaster is the least profitable city in the United states this is because while the Discount rate and cost of shipping increases, the Sales also increases therefore reducing the profit margin.
 ***
 
 ### Subcategories by highest average profit in Australia
