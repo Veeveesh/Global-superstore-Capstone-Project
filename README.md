@@ -1,5 +1,6 @@
 # Global-superstore-Capstone-Project
 ![](supermarket.jpg)
+ _Image by vecstock_
 ***
 ## Introduction
 Global Superstore is a global online retailer based in New York, boasting a broad product catalog and aiming to be a one-stop-shop for its customers. Global The superstore’s clientele, hailing from 147 different countries, can browse through an endless offering with more than 10,000 products. This large selection comprises three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).
@@ -87,7 +88,7 @@ Tables generated the least Profit in South east Asia.Indonesia accumulated the g
 -**Recommendations:** Tables should not be marketed in Indonesia until further analysis can be conducted to rectify the loss margin.
 ***
 ###  Cities by Profitability in US
-![](subcategories_in_US.png)
+![](subcategories_in_us.png)
 Lancaster is the least profitable city in the United states this is because while the Discount rate and cost of shipping increases, the Sales also increases therefore reducing the profit margin.
 ***
 
