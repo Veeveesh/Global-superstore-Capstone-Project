@@ -107,4 +107,5 @@ Global stores most valuable customer is **Anna Andreadi** from Central region an
 - The average discount rate should be reduced in countries with high shipping costs to increase profits and In countries with low sales and low shipping cost,It should be increased.
 - For a more in depth Analyses of **Global Superstore** data sets from previous years will be required for evaluation and data driven decision making.
 
+![](Thanks.gif)
 
